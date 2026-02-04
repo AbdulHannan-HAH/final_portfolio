@@ -19,7 +19,7 @@ const Experience = () => {
       location: "Pakistan",
       workType: "Remote",
       period: "2025 - 2 Months",
-      description: "Contributed to live production applications serving real users, developing features using React, Next.js, and Node.js with Express. Gained hands-on experience in mern-stack development within an enterprise environment, collaborating on client-facing projects and learning industry best practices."
+      description: "Contributed to live production applications serving real users, developing features using React  and Node.js with Express. Gained hands-on experience in mern-stack development within an enterprise environment, collaborating on client-facing projects and learning industry best practices."
     },
     {
       role: "Frontend Developer Intern",
