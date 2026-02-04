@@ -121,13 +121,7 @@ const Header = () => {
                       Home
                     </Link>
                   )}
-                  <Link
-                    to="/blog"
-                    onClick={() => setOpen(false)}
-                    className="text-left text-lg font-medium hover:text-primary transition-colors touch-manipulation py-2"
-                  >
-                    Blog
-                  </Link>
+
                 </div>
               </SheetContent>
             </Sheet>
