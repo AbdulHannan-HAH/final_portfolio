@@ -33,15 +33,7 @@ const Hero = () => {
               Hello, my name is Abdul Hannan.
             </h1>
             <p className="text-base text-center sm:text-lg text-muted-foreground max-w-md mx-auto lg:mx-0">
-              Hi, I'm Abdul Hannan, a Full-Stack Developer specializing in the MERN
-              stack. I build scalable web and mobile applications using React,
-              Next.js, React Native, Express.js, and FastAPI, with real-time
-              features via Socket.IO. I optimize databases (MongoDB, PostgreSQL,
-              MySQL) and integrate AI using OpenAI APIs.
-              Experienced with international teams, I deliver efficient,
-              cloud-ready, AI-powered solutions that drive real business
-              results. I also build desktop applications using C#(.NET) and
-              WPF using SQL Server.
+              Hi, I'm Abdul Hannan, a Full-Stack Developer specializing in the MERN stack. I build scalable web and mobile applications using React, Next.js, React Native, Express.js, and FastAPI, with real-time features via Socket.IO. I optimize databases (MongoDB, PostgreSQL, MySQL) and integrate AI using OpenAI APIs. I also have experience in data science, implementing data analysis, visualization, and machine learning models for data-driven insights. Experienced with international teams, I deliver efficient, cloud-ready, AI-powered solutions that drive real business results. I also build desktop applications using C#(.NET) and WPF using SQL Server.
             </p>
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 pt-4 justify-center lg:justify-start">
               <Button
